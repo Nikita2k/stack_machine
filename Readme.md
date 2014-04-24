@@ -92,3 +92,8 @@ Assume that:
 
 For example; Given string S = "13+62*7+*" the function should return 76, as explained in the example above. Given string S = "11++" the function should return −1.
 
+Please run the tests using:
+
+<code>
+  bundle exec rspec .
+</code>
